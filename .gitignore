@@ -1,0 +1,9 @@
+.env
+.onboarded
+.venv/
+__pycache__/
+*.pyc
+ledger.jsonl
+channels.jsonl
+*.log
+.DS_Store
